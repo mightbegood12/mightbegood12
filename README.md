@@ -13,7 +13,7 @@
 <div align="center">
         
 <p>
-        <samp>「 As a Web Developer based in Chennai, India, I'm deeply committed to expanding my expertise in both front-end and back-end development. With a diverse skill set encompassing a range of programming languages, frameworks, and databases, I aim to contribute innovatively to every project I undertake. 」
+        <samp>「 As a Student/Developer based in Chennai, India, I'm deeply committed to expanding my expertise in both front-end and back-end development. With a diverse skill set encompassing a range of programming languages, frameworks, and databases, I aim to contribute innovatively to every project I undertake. 」
         </samp>
 </p>
 
