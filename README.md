@@ -1,4 +1,4 @@
-<pre align="center" size="auto" style="font-size: 2vw;">                                          █▓░    
+<pre size="auto" style="font-size: 2vw;text-align: center; ">                                          █▓░    
                                           ▓▒░    
 █▄     ▄▒  ▄▒▀███  ▄▒▀█▓░  ▄▓▀▒░▄  ▄░▀██▀ ▒░░▀▒▄ 
 ▓▒░▄ ▄▓▒░ ▓▒░ ░▓█ ▓▒░ ▓▒░ █▓▒ ░██ ▓▒░ ▀   ░░█ ▓▒░
