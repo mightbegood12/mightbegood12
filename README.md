@@ -63,11 +63,11 @@
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<br><br>
+<br>
 More to come ig.....
 </p>
 
-<h2 align="center">Goodbye. Thanks for checking out...</h2>
+<p style="font-size:2rem" align="center">Bye. Thanks for checking out...</p>
 
 <div align="center">
 <img width="40%" src="https://raw.githubusercontent.com/mightbegood12/mightbegood12/main/gitgud.png" alt="Footer Banner">
