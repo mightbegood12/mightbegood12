@@ -11,7 +11,7 @@
 <h2 align="left"> About Me </h2>
 
 <div align="center">
-<img src="https://github.com/mightbegood12/mightbegood12/blob/main/profileG5.gif" width="30%" height="100%" align="right">
+<img src="https://github.com/mightbegood12/mightbegood12/blob/main/profileG5.gif?raw=true" width="30%" height="100%" align="right">
 </div>
 
 <li><b>Name:</b> Magesh M</li>
@@ -49,7 +49,7 @@
 <h2 align="left"> Skills </h2>
 
 <div align="center">
-<img src="https://github.com/mightbegood12/mightbegood12/blob/main/skillsGJO.gif" width="30%" height="100%" align="right">
+<img src="https://github.com/mightbegood12/mightbegood12/blob/main/skillsGJO.gif?raw=true" width="30%" height="100%" align="right">
 </div>
 
 <p align="left" height="100%">
