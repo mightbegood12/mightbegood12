@@ -70,10 +70,7 @@ More to come ig.....
 <h2 align="center">Goodbye. Thanks for checking out...</h2>
 
 <div align="center">
-<img src="">
-</div>
-<div align="center">
 <img width="40%" src="https://raw.githubusercontent.com/mightbegood12/mightbegood12/main/gitgud.png" alt="Footer Banner">
 </div>
-
+<hr>
 </body>
