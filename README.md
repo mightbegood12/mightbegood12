@@ -2,8 +2,7 @@
   <center>
 
 <div align="center" style="display: flex; flex-direction: column; justify-items:center; align-items:center; background-image: url('https://raw.githubusercontent.com/mightbegood12/mightbegood12/main/matrix.gif'); background-size: cover; padding: 20px; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/mightbegood12/mightbegood12/main/mightbegood12.png" alt="Profile Banner">
-  <br>
+  <img src="https://github.com/mightbegood12/mightbegood12/blob/main/matrixWtext.gif?raw=true" alt="Profile Banner">
 </div>
 
   </center>
