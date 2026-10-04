@@ -14,7 +14,7 @@
 </div>
 
 <li><b>Name:</b> Magesh M</li>
-<li><b>Role:</b> Junior Developer @ Optanium GmbH</li>
+<li><b>Role:</b> Junior Developer</li>
 <li><b>GitHub:</b> <a href="https://github.com/mightbegood12">@mightbegood12</a></li>
 <li><b>Portfolio:</b> <a href="https://mageshm.vercel.app">mageshm.vercel.app</a></li>
 <li><b>Email:</b> banunaresh1976@gmail.com</li>
@@ -25,7 +25,7 @@
 
 <div align="left">
 
-**Junior Developer** — Optanium GmbH · Jul 2025 – Present
+**Junior Developer** — Optanium GmbH · Jul 2025 – Jan 2026
 
 - Designed and implemented secure OAuth 2.0 Authorization Code + PKCE flows for the in-house low-code platform ELSA, integrating identity providers including Microsoft and DATEV.
 - Built a document upload and management feature, streamlining workflows with an estimated 2x improvement in process efficiency.
