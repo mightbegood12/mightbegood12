@@ -13,13 +13,13 @@
 <img src="https://github.com/mightbegood12/mightbegood12/blob/main/profileG5.gif?raw=true" width="22%" height="100%" align="right">
 </div>
 
-<li><b>Name:</b> Magesh M</li>
-<li><b>Role:</b> Junior Developer</li>
-<li><b>GitHub:</b> <a href="https://github.com/mightbegood12">@mightbegood12</a></li>
-<li><b>Portfolio:</b> <a href="https://mageshm.vercel.app">mageshm.vercel.app</a></li>
-<li><b>Email:</b> banunaresh1976@gmail.com</li>
-<li><b>Focus:</b> React, Node.js, TypeScript, OAuth 2.0 (PKCE), REST APIs</li>
-<li><b>Hobbys:</b> Gaming, Philosophy, Anime </li>
+<li> Magesh M</li>
+<li> Junior Developer</li>
+<li> <a href="https://github.com/mightbegood12">@mightbegood12</a></li>
+<li> <a href="https://mageshm.vercel.app">mageshm.vercel.app</a></li>
+<li> banunaresh1976@gmail.com</li>
+<li> React, Node.js, TypeScript, OAuth 2.0 (PKCE), REST APIs</li>
+<li> Gaming, Philosophy, Anime </li>
 
 <h2 align="left"> Experience </h2>
 
